@@ -1,0 +1,82 @@
+Blast Burn	FIRE	150	090	02
+Blaze Kick	FIRE	085	090	10
+Blue Flare	FIRE	130	085	02
+Burn Up		FIRE	130	100	02
+Ember		FIRE	040	100	05
+Eruption	FIRE	150	100	05
+Fiery Dance	FIRE	080	100	10
+Fire Blast	FIRE	110	085	03
+Fire Lash	FIRE	080	100	05
+Fire Punch	FIRE	075	100	05
+Fire Spin	FIRE	065	085	05
+Flame Burst	FIRE	070	100	15
+Flame Charge	FIRE	050	100	20
+Flame Wheel	FIRE	060	100	05
+Flamethrower	FIRE	090	100	05
+Flare Blitz	FIRE	120	100	02
+Fusion Flare	FIRE	100	100	05
+Heat Wave	FIRE	095	090	10
+Incinerate	FIRE	060	100	05
+Inferno		FIRE	100	050	05
+Lava Plume	FIRE	080	100	05
+Magma Storm	FIRE	100	075	05
+Mystical Fire	FIRE	075	100	10
+Overheat	FIRE	130	090	02
+Sacred Fire	FIRE	100	095	05
+Searing Shot	FIRE	100	100	05
+
+
+Aqua Jet	WATER	040	100	05
+Aqua Tail	WATER	090	090	10
+Bouncy Bubble	WATER	090	100	05
+Brine		WATER	065	100	05
+Bubble Beam	WATER	065	100	05
+Clamp		WATER	065	085	10
+Crabhammer	WATER	100	090	05
+Dive		WATER	080	100	05
+Hydro Cannon	WATER	150	090	02
+Hydro Pump	WATER	110	080	03
+Liquidation	WATER	085	100	10
+Muddy Water	WATER	090	085	10
+Octazooka	WATER	075	085	10
+Origin Pulse	WATER	110	085	03
+Razor Shell	WATER	075	095	10
+Scald		WATER	080	100	05
+Splishy Splash	WATER	090	100	05
+Steam Eruption	WATER	110	095	03
+Surf		WATER	090	100	05
+Water Gun	WATER	080	100	05
+Water Pledge	WATER	080	100	10
+Water Pulse	WATER	060	100	05
+Water Shuriken	WATER	015	100	05
+Water Spout	WATER	150	100	05
+Waterfall	WATER	080	100	05
+Whirlpool	WATER	065	085	05
+
+
+Absorb		GRASS	090	100	05
+Bullet Seed	GRASS	075	100	05
+Energy Ball	GRASS	090	100	05
+Frenzy Plant	GRASS	150	090	02
+Giga Drain	GRASS	075	100	05
+Grass Pledge	GRASS	080	100	05
+Horn Leech	GRASS	075	100	05
+Leaf Blade	GRASS	090	100	05
+Leaf Storm	GRASS	130	090	02
+Leaf Tornado	GRASS	065	090	05
+Leafage		GRASS	080	100	05
+Magical Leaf	GRASS	100	090	05
+Mega Drain	GRASS	080	100	05
+Needle Arm	GRASS	090	100	05
+Petal Blizzard	GRASS	090	100	05
+Petal Dance	GRASS	120	100	03
+Power Whip	GRASS	120	085	03
+Razor Leaf	GRASS	055	095	05
+Sappy Seed	GRASS	090	100	05
+Seed Bomb	GRASS	080	100	05
+Seed Flare	GRASS	120	085	03
+Solar Beam	GRASS	120	100	03
+Solar Blade	GRASS	125	100	03
+Trop Kick	GRASS	070	100	10
+Vine Whip	GRASS	065	100	15
+Wood Hammer 	GRASS	120	100	15
