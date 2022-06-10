@@ -1,7 +1,9 @@
 # Java-Pokemon-Game
 Pokemon recreation created with Java's AWT Graphics using entirely copyright-free images. To play the game, download & run pokemon.jar 
 
-
+&nbsp;
+&nbsp;
+&nbsp;
 
 Game.java - runs the game; runs an infinite loop that redraws / deletes images and allows player to move. All initializing of entities, processing key presses, movement, and interaction of entities is dealt with here.
 
