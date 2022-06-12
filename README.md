@@ -5,6 +5,17 @@ Pokemon recreation created with Java's AWT Graphics using entirely copyright-fre
 &nbsp;
 &nbsp;
 
+
+<img src="https://imgur.com/gJukq8AA" alt="starting the game" width="500" height="600">
+
+
+
+
+
+
+
+
+
 Game.java - runs the game; runs an infinite loop that redraws / deletes images and allows player to move. All initializing of entities, processing key presses, movement, and interaction of entities is dealt with here.
 
 Entity.java - Stores all information about an image on the screen - its location, height, width etc and is used to check if 2 entities collide. 
