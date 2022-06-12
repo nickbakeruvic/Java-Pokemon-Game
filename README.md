@@ -7,8 +7,8 @@ Pokemon recreation created with Java's AWT Graphics using entirely copyright-fre
 
 
 
-Screenshots:
-https://imgur.com/gallery/yVwUYJ6
+Screenshots:&nbsp;
+[https://imgur.com/gallery/yVwUYJ6](https://imgur.com/a/Za24Esr)
 
 
 &nbsp;
